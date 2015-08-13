@@ -1,3 +1,5 @@
+DEMO: https://vast-journey-3822.herokuapp.com/
+
 (Somewhat graceless) Todo App!
 
 Hello!
@@ -23,4 +25,3 @@ NEW FEATURES
 - (!) Allow users to sort Tasks within a project
 - () Users would like to be able to choose between several themes
 
-This app can be found on: https://vast-journey-3822.herokuapp.com/
