@@ -1,4 +1,4 @@
-DEMO: https://vast-journey-3822.herokuapp.com/
+DEMO:  https://vast-journey-3822.herokuapp.com/
 
 Your task is to fix the bugs and improve the application however you see fit along the way.
 
